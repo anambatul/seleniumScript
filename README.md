@@ -1,1 +1,1 @@
-# seleniumScript is a repository storage for automation too
+# seleniumScript is a repository storage for automation tool
